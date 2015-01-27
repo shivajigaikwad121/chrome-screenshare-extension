@@ -20,10 +20,10 @@
   "content_scripts": [ {
         "js": [ "content.js" ],
         "matches": [
-            "https://apps.inindca.com/*",
-            "https://apps.inintca.com/*",
-            "https://apps.ininsca.com/*",
-            "https://apps.mypurecloud.com/*"
+            "https://*.inindca.com/*",
+            "https://*.inintca.com/*",
+            "https://*.ininsca.com/*",
+            "https://*.mypurecloud.com/*"
         ]
   }]
 }
