@@ -13,9 +13,9 @@
       "scripts": ["background.js"]
   },
   "icons": {
-      "16": "pc-16.png",
-      "48": "pc-48.png",
-      "128": "pc-128.png"
+      "16": "images/pc-16.png",
+      "48": "images/pc-48.png",
+      "128": "images/pc-128.png"
   },
   "content_scripts": [ {
         "js": [ "content.js" ],
