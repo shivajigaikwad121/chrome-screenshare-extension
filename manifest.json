@@ -1,0 +1,29 @@
+{
+  "name": "Screensharing Sample",
+  "description": "Screensharing utility sample for getscreenmedia",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "minimum_chrome_version": "34",
+  "icons": {
+  },
+  "permissions": [
+      "desktopCapture"
+  ],
+  "background": {
+      "scripts": ["background.js"]
+  },
+  "icons": {
+      "16": "pc-16.png",
+      "48": "pc-48.png",
+      "128": "pc-128.png"
+  },
+  "content_scripts": [ {
+        "js": [ "content.js" ],
+        "matches": [
+            "https://apps.inindca.com/*",
+            "https://apps.inintca.com/*",
+            "https://apps.ininsca.com/*",
+            "https://apps.mypurecloud.com/*"
+        ]
+  }]
+}
