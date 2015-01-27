@@ -1,7 +1,7 @@
 {
-  "name": "Screensharing Sample",
-  "description": "Screensharing utility sample for getscreenmedia",
-  "version": "0.0.1",
+  "name": "PureCloud Screensharing",
+  "description": "Enables screensharing in Chrome for PureCloud",
+  "version": "0.1.0",
   "manifest_version": 2,
   "minimum_chrome_version": "34",
   "icons": {
