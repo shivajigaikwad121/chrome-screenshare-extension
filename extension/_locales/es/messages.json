@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Ayuda para compartir pantallas en PureCloud",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "Utilidad auxiliar para permitir compartir pantallas en PureCloud", 
+    "description":"The description of the application, displayed in the web store."
+  }
+}
