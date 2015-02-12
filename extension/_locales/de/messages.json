@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "PureCloud Hilfsprogramm für die Bildschirmfreigabe",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "Hilfsprogramm zur Aktivierung der Bildschirmfreigabe in PureCloud", 
+    "description":"The description of the application, displayed in the web store."
+  }
+}
