@@ -1,10 +1,8 @@
 {
   "appName": {
-    "message": "PureCloud Helper voor schermdeling",
-    "description": "The title of the application, displayed in the web store."
+    "message": "PureCloud Helper voor schermdeling"
   },
   "appDesc": {
-    "message": "Helper-programma voor het inschakelen van schermdeling in PureCloud", 
-    "description":"The description of the application, displayed in the web store."
+    "message": "Helper-programma voor het inschakelen van schermdeling in PureCloud"
   }
 }
