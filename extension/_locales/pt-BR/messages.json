@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Auxiliar para Compartilhamento de Tela do PureCloud",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "Utilitário auxiliar para permitir o compartilhamento de tela no PureCloud", 
+    "description":"The description of the application, displayed in the web store."
+  }
+}
