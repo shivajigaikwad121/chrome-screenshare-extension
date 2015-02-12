@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Aide sur le partage d'écran dans PureCloud",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "Utilitaire d'aide pour activer le partage d'écran dans PureCloud", 
+    "description":"The description of the application, displayed in the web store."
+  }
+}
