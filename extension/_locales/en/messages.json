@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "PureCloud Screensharing",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "Enables screensharing in Chrome for PureCloud", 
+    "description":"The description of the application, displayed in the web store."
+  }
+}
