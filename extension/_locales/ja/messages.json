@@ -1,10 +1,8 @@
 {
   "appName": {
-    "message": "PureCloud 画面共有ヘルパー",
-    "description": "The title of the application, displayed in the web store."
+    "message": "PureCloud 画面共有ヘルパー"
   },
   "appDesc": {
-    "message": "ヘルパーは PureCloud で画面共有を可能にするユーティリティです。", 
-    "description":"The description of the application, displayed in the web store."
+    "message": "ヘルパーは PureCloud で画面共有を可能にするユーティリティです。"
   }
 }
