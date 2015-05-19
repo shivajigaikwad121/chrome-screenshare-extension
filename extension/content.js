@@ -1,4 +1,6 @@
-/* the chrome content script which can listen to the page dom events */
+sessionStorage.getScreenMediaJSExtensionId = chrome.runtime.id;
+
+/* TODO remove when old method is deprecated */
 var channel = chrome.runtime.connect();
 channel.onMessage.addListener(function (message) {
     console.log('channel message', message);
