@@ -6,8 +6,14 @@ and returns the sourceId of the chosen window. This sourceId has to be passed ba
 
 See also [the tutorial for using inline installation](https://developer.chrome.com/webstore/inline_installation).
 
-Running (for testing):
-    google-chrome --load-and-launch-app=/path/to/this/directory
+Running (for testing and development):
+
+
+- Clone this repo
+- Open the manifest file and add `https://localhost:*/*` to **both** url lists
+- Open a chrome tab to `chrome://extensions`
+- Check "Developer Mode"
+- Click "Load unpacked extension" and pick the extension directory
 
 
 Extension based on [getScreenMedia](https://github.com/HenrikJoreteg/getScreenMedia)
