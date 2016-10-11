@@ -17,3 +17,5 @@ Running (for testing and development):
 
 
 Extension based on [getScreenMedia](https://github.com/HenrikJoreteg/getScreenMedia)
+
+For Branding and Deploying your own copy of this extension, see BRANDING.md
