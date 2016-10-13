@@ -1,7 +1,7 @@
 ## Branding
 
-In order to use this extension with your own Brand (naming, icons, URL), there
-are a few simple steps to follow. Note that this document is intentionally
+In order to use this extension with your own brand (naming, icons, URL), follow these steps.
+Note: this document is intentionally
 sparse, as most of the important information is in the links provided, and
 is subject to change at Google Chrome's discretion.
 
