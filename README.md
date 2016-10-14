@@ -1,7 +1,7 @@
-This is an extension which implements the extension-side of [getscreenmedia](https://github.com/henrikjoreteg/getscreenmedia).
+This is an extension that implements the extension-side of [getscreenmedia](https://github.com/henrikjoreteg/getscreenmedia).
 
 It uses window event messages to communicate between the website javascript and the content script (content.js).
-The content script in turn uses channel messaging to talk to the backend script which calls [chooseDesktopMedia](https://developer.chrome.com/extensions/desktopCapture)
+The content script in turn uses channel messaging to talk to the backend script that calls [chooseDesktopMedia](https://developer.chrome.com/extensions/desktopCapture)
 and returns the sourceId of the chosen window. This sourceId has to be passed back to getUserMedia.
 
 See also [the tutorial for using inline installation](https://developer.chrome.com/webstore/inline_installation).
@@ -18,4 +18,4 @@ Running (for testing and development):
 
 Extension based on [getScreenMedia](https://github.com/HenrikJoreteg/getScreenMedia)
 
-For Branding and Deploying your own copy of this extension, see BRANDING.md
+For instructions about branding and deploying your own copy of this extension, see BRANDING.md
