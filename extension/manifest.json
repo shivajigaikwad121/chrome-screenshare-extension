@@ -22,7 +22,8 @@
             "https://*.mypurecloud.com/*",
             "https://*.mypurecloud.com.au/*",
             "https://*.mypurecloud.ie/*",
-            "https://*.mypurecloud.jp/*"
+            "https://*.mypurecloud.jp/*",
+            "https://*.mypurecloud.de/*"
         ]
   }],
   "externally_connectable": {
@@ -30,7 +31,8 @@
         "https://*.mypurecloud.com/*",
         "https://*.mypurecloud.com.au/*",
         "https://*.mypurecloud.ie/*",
-        "https://*.mypurecloud.jp/*"
+        "https://*.mypurecloud.jp/*",
+        "https://*.mypurecloud.de/*"
     ]
   }
 }
